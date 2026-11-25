@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+profile.json
+*.pem
+*.key
+*.sqlite*
+*.db
+*.db-*
+*.log
+*.qcow2
+*.iso
